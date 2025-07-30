@@ -5,9 +5,9 @@ app_file: app.py
 sdk_version: 1.46.1
 ---
 
-# Welcome to Streamlit!
+# Match Report Generator
 
-Edit `/src/streamlit_app.py` to customize this app to your heart's desire. :heart:
+This app generates match reports using Streamlit.
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+If you have any questions, checkout [Streamlit Docs](https://docs.streamlit.io) and [Community Forums](https://discuss.streamlit.io).
+
